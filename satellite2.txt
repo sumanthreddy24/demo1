@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> WELCOME TO BRIGHTCOMGROUP </title>
+ <image: url("https://1.bp.blogspot.com/-eT_nB51WgoY/YRIQDEHy3AI/AAAAAAABlPQ/jSs_QDliprMsG1FbtA0-OhDYZsgq9fdRACLcBGAsYHQ/s320/Brightcom-Group.jpg")>
+<body>
+<style>
+body
+{
+background-image: url("C:\Users\kk\Downloads\groupicon.jpg"); 
+background-size: cover;
+background-attachment: fixed;
+}
+</style>
+</head>
+<header>
+<center>
+<h1 style="font-size: 30px;"> 
+<font color="slateblue">
+<img src="C:\Users\kk\Downloads\groupicon.jpg" height="35px" width="40px">
+COHORT-SATELLITE
+</font>
+<hr>
+</h1>
+</center>
+<h2 style="color:dodgerblue;">
+Team mentor - Suresh 
+</h2>
+<h3 style="color:orange;">
+Team members - 
+<li> Sumanth </li>
+<li> Sandeep </li>
+<li> Vijay </li>
+<li> Madhukiran </li>
+<li> Karun </li>
+<li> Naveen </li>
+</h3>
+</header>
+
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+<footer>
+<marquee direction="right" style="color:violet;"> THANK YOU </marquee>
+</footer>
+</body>
+</html>
